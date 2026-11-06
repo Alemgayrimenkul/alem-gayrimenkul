@@ -1,0 +1,18 @@
+{
+  "name": "ALEM Gayrimenkul & İnşaat Taahhüt",
+  "short_name": "ALEM",
+  "description": "ALEM Gayrimenkul ve İnşaat Taahhüt - Dalaman",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#252a30",
+  "theme_color": "#252a30",
+  "icons": [
+    {
+      "src": "./file_00000000fee88246a1ce720856944c75.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
